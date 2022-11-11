@@ -1,6 +1,9 @@
 # CoCo
 
-## Setup
+## Requirements
+* Python 3.7
+* PyTorch 1.1.0
+* numpy 1.16.2
 
 ### Install dependencies
 Please install all the dependency packages using the following command:
